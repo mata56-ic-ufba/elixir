@@ -1,18 +1,16 @@
 <!--
 Adaptado para 2022 por Christina von Flach.
-
-Contribuidores:
-+ Kenia e Luiz
-+ Mauricio Santiago, Gustavo Santos, Matheus Novais, Ivens Joris, Matheus Silva
-+ Álvaro Souza Oliveira; Carlos Mosselman Cabral Neto; Thiago Vieira Souza Andrade; Caio Nery Matos Santos; Vanessa Machado Araújo
-+ Daniel
-
-Fontes:
-+ Criação do TOC: Table of contents generated with markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)
+- Contribuidores:
+  + Kenia e Luiz
+  + Mauricio Santiago, Gustavo Santos, Matheus Novais, Ivens Joris, Matheus Silva
+  + Álvaro Souza Oliveira; Carlos Mosselman Cabral Neto; Thiago Vieira Souza Andrade; Caio Nery Matos Santos; Vanessa Machado Araújo
+  + Daniel
+- Fontes:
+  + Criação do TOC: Table of contents generated with markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)
 ---
 --> 
 
-+ Linguagem de Programação: Elixir
+# Linguagem de Programação: Elixir
 
   * [Apresentação e histórico](#apresenta--o-e-hist-rico)
   * [Características da Linguagem](#caracter-sticas-da-linguagem)
@@ -32,7 +30,7 @@ _Colocar uma figura / árvore, com pais e filhos de Elixir_.
 
 ## Características da Linguagem
   + Paradigma
-  + Propósito (domínio(s)).
+  + Propósito
   + Sistema de Tipos
   + Ambiente de Execução
   + Tipos de Unidades de Programa
